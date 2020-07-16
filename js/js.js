@@ -2,7 +2,7 @@ AOS.init();
 
 
 function openNav() {
-    document.getElementById("mySidenav").style.width = "399px";
+    document.getElementById("mySidenav").style.width = "20em";
 }
 
 function closeNav(a) {
